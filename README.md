@@ -18,7 +18,7 @@ visual: [Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
 
 audio: [VGGish](https://github.com/harritaylor/torchvggish)
 
-More hyperparameters and  details can be find in our paper.
+More hyperparameters and  details can be found in our paper.
 
 ## Model weights
 For convenience, we provide our model weights on [google drive](https://drive.google.com/file/d/1pXibHeL_YJeMGekJBGJQh8OELMdoi-5z/view?usp=sharing). You need download it and put it in the same directory as inference.py
