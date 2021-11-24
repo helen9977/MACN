@@ -96,10 +96,10 @@ def main():
 
     with open("./output/pre_4bff6d505cd887f5059490f6ae5758f5.json","w") as f:
         json.dump(predict1,f)
-        print("加载入文件完成...")
+        print("done...")
     with open("./output/pre_d8863af5703bd614b6c01e2ba4decd0a.json","w") as f:
         json.dump(predict2,f)
-        print("加载入文件完成...")
+        print("done...")
 if __name__ == '__main__':
     main()
     # print(__name__)
