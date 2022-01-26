@@ -2,18 +2,12 @@
 Original PyTorch implementation of "Joint Learning of Video Scene Detection and Annotation via Multi-modal Adaptive Context Network" 
 
 ## Discription
-### Data : 
-Data sets in the form of MP4, npy, pkl and txt.
-### Label : 
-Ground truth corresponding to Data folders.
-### output:
-Results folder.
-### inference.py:
-Inference code.
-### model.py:
-The framework of MACN.
-### requirement.txt
-Requirement documents.
+### Dat ### : Data sets in the form of MP4, npy, pkl and txt
+### Label : Ground truth corresponding to Data folders.
+### output: Results folder.
+### inference.py: Inference code.
+### model.py: The framework of MACN.
+### requirement.txt: Requirement documents.
 
 
 
